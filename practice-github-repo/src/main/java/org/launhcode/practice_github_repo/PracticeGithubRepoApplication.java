@@ -14,4 +14,7 @@ public class PracticeGithubRepoApplication {
 	//I GOT A 404 MESSAGE...
 	//Repo looked like it worked once I did my first commit... Now I am checking out adding branches
 	//Let's see how this one works...
+
+
+	//Now I created a repo in github, uploaded my spring boot project to it and then cloned it in
 }
