@@ -17,4 +17,5 @@ public class PracticeGithubRepoApplication {
 
 
 	//Now I created a repo in github, uploaded my spring boot project to it and then cloned it in
+	//Just seeing how pushing works once I add another branch from my machine
 }
